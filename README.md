@@ -1,3 +1,3 @@
 # Loan-Calculator
 Quarantine Project 2
-Made with HTML, CSS and vanilla JavaScript.
+This loan calculator allows users calculate how long it will take to pay back a loan. Made with HTML, CSS and vanilla JavaScript.
